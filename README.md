@@ -1,6 +1,6 @@
 # Web-Restaurant
 This is just a web restaurant template working average.
-RESTAURANT WEBSITE IN JAVASCRIPT
+KARAOKE WEB RESTAURANT
 
 
 **Developed By Junior Moses - 0716-9220-21**
@@ -17,4 +17,4 @@ RESTAURANT WEBSITE IN JAVASCRIPT
 
 
 
-#THANK YOU FOR DOWNLOADING
+#ENJOY
