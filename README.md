@@ -3,7 +3,7 @@ This is just a web restaurant template working average.
 KARAOKE WEB RESTAURANT
 
 
-**Developed By Junior Moses - 0716-9220-21**
+
 
 
 
